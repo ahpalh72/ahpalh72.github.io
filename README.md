@@ -48,35 +48,5 @@
         <div class="about section">
             <h2>About Me</h2>
             <p style="font-size:1.2rem;text-align:center;">
-                Currently pursuing <strong>M.Sc Computer Science</strong> at <strong>Shah Abdul Latif University, Khairpur Mir's, Sindh, Pakistan</strong>.<br>
-                Passionate about full-stack web development and cross-platform mobile apps.<br>
-                Open to internships, freelance projects & collaboration opportunities!
-            </p>
-        </div>
-
-        <div class="skills section">
-            <h2>Skills & Tools</h2>
-            <div class="skills-grid">
-                <div class="skill-item">HTML/CSS</div>
-                <div class="skill-item">JavaScript</div>
-                <div class="skill-item">React.js</div>
-                <div class="skill-item">Flutter</div>
-                <div class="skill-item">Python</div>
-                <div class="skill-item">Firebase</div>
-                <div class="skill-item">Git & GitHub</div>
-                <div class="skill-item">REST APIs</div>
-            </div>
-        </div>
-
-        <div class="section" style="text-align:center;">
-            <h2>Projects Coming Soon!</h2>
-            <p style="font-size:1.3rem;">Working on exciting full-stack and mobile projects…</p>
-        </div>
-    </div>
-
-    <footer>
-        Made with <i class="fas fa-heart" style="color:#e91e63;"></i> by Abdul Hakeem<br>
-        © 2025 | Khairpur Mir's, Sindh
-    </footer>
-</body>
-</html>
+                Graduate student pursuing <strong>M.Sc Computer Science</strong> at <strong>Shah Abdul Latif University, Khairpur Mir's, Sindh, Pakistan</strong>.<br>
+                Passionate
