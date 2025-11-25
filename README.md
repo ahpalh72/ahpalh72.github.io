@@ -18,7 +18,7 @@
         .hero p { font-size:1.5rem; margin:15px 0; animation:fadeInUp 1s 0.3s backwards; }
         .socials a { color:white; font-size:2rem; margin:0 15px; transition:0.3s; }
         .socials a:hover { transform:translateY(-8px); color:#58a6ff; }
-        .section { padding:80px 20px; animation:fadeIn 1.5s; }
+        .section { padding:80px 20px; }
         .about,.skills { background:var(--card); margin:30px 0; padding:40px; border-radius:16px; border:1px solid #30363d; }
         h2 { font-size:2.5rem; color:#58a6ff; margin-bottom:30px; text-align:center; }
         .skills-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(120px,1fr)); gap:20px; text-align:center; }
@@ -27,7 +27,6 @@
         footer { text-align:center; padding:50px; font-size:1.1rem; }
         @keyframes fadeInDown { from{opacity:0;transform:translateY(-50px)} to{opacity:1;transform:translateY(0)} }
         @keyframes fadeInUp { from{opacity:0;transform:translateY(50px)} to{opacity:1;transform:translateY(0)} }
-        @keyframes fadeIn { from{opacity:0} to{opacity:1} }
         @media(max-width:768px){ .hero h1{font-size:3rem} .hero p{font-size:1.2rem} }
     </style>
 </head>
@@ -35,7 +34,7 @@
     <header>
         <div class="hero">
             <h1>Hi, I'm <span>Abdul Hakeem</span> <i class="fas fa-hand-sparkles"></i></h1>
-            <p>BSCS Student</p>
+            <p>M.Sc Computer Science Student</p>
             <p>Web & Mobile App Developer • React • Flutter • Python</p>
             <div class="socials" style="margin-top:30px;">
                 <a href="https://github.com/ahpalh72" target="_blank"><i class="fab fa-github"></i></a>
@@ -49,9 +48,9 @@
         <div class="about section">
             <h2>About Me</h2>
             <p style="font-size:1.2rem;text-align:center;">
-                Undergraduate Computer Science student at <strong>Shah Abdul Latif University, Khairpur Mir's, Sindh, Pakistan</strong>.<br>
-                Passionate about building real-world web and mobile applications. Currently learning and working with React, Flutter, Firebase, and Python.<br>
-                Open to internships & freelance opportunities!
+                Currently pursuing <strong>M.Sc Computer Science</strong> at <strong>Shah Abdul Latif University, Khairpur Mir's, Sindh, Pakistan</strong>.<br>
+                Passionate about full-stack web development and cross-platform mobile apps.<br>
+                Open to internships, freelance projects & collaboration opportunities!
             </p>
         </div>
 
@@ -71,7 +70,7 @@
 
         <div class="section" style="text-align:center;">
             <h2>Projects Coming Soon!</h2>
-            <p style="font-size:1.3rem;">Full-stack apps, mobile apps, and open-source contributions are on the way…</p>
+            <p style="font-size:1.3rem;">Working on exciting full-stack and mobile projects…</p>
         </div>
     </div>
 
